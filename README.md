@@ -38,8 +38,8 @@ Prerequisites
 4.Gradle 8+
 
 -**Run Locally**
+git clone https://github.com/misba2002/-PregnancyVitalsTracker  
 
-git clone https://github.com/misba2002/-pregnancy-vitals-tracker.git
 cd -pregnancy-vitals-tracker
 Open the project in Android Studio and click Run ▶️
 
